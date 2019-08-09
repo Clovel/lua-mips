@@ -1,0 +1,5 @@
+add $t1, $t2, $t3
+addi $t1, $t2, 3
+sw $t5, 4($t1)
+beq $t6, $t7, 0
+j 10
