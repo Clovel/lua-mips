@@ -1,6 +1,6 @@
 -- Clovis Durand
--- Enseirb-Matmeca
--- Cours MI201 - Microinformatique
+
+
 
 -- hw_decode.lua
 

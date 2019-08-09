@@ -1,6 +1,6 @@
 -- Clovis Durand
--- Enseirb-Matmeca
--- Cours MI201 - Microinformatique
+
+
 -- Seance 2, 3
 
 package.path = package.path .. ";../src/mips/bits.lua"

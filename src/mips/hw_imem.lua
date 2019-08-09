@@ -1,6 +1,6 @@
 -- Clovis Durand
--- Enseirb-Matmeca
--- Cours MI201 - Microinformatique
+
+
 
 -- Memoire d'instructions contenant le programme mips a executer
 
