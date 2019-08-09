@@ -16,6 +16,14 @@ This directory contains the sources of the MIPS processor simulator.
 
 This directory contains the sources of the assembly to bitcode translator.
 
+To use it : 
+```bash
+cd translator
+lua translate.lua ../data/program.txt
+```
+
+This outputs a `program.dat` file containit the bitcode. 
+
 ### Data
 
 This directory contains an example of MIPS assembly code. 
