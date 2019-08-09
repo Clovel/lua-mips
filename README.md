@@ -12,6 +12,12 @@ This directory contains a test Lua script to get familiar with the language.
 
 This directory contains the sources of the MIPS processor simulator. 
 
+To use it : 
+```bash
+cd src
+lua mips.lua ../translator/program.txt
+```
+
 ### Translator
 
 This directory contains the sources of the assembly to bitcode translator.
